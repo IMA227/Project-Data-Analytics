@@ -13,6 +13,6 @@ Dieses Repository enthält den Code zum Projekt **„Struktur der deutschen Gast
 **Scrapy**
 - `speisekarte.py`, `parsers.py`, `items.py`, `pipelines.py`, `settings.py`
 
-## Reihenfolge (empfohlen)
-Sampling → Baseline → Learning Curves → Grid Search → Inferenz  
+## Reihenfolge 
+Scraping → Sampling → Baseline → Learning Curves → Grid Search → Inferenz  
 
