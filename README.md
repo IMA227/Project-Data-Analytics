@@ -1,6 +1,6 @@
 # Projekt Data Analytics – Struktur der deutschen Gastronomiebranche
 
-Dieses Repository enthält den Code zum Projekt **„Struktur der deutschen Gastronomiebranche“** (JLU Gießen, M.Sc. Data Analytics). Analysiert werden Plattformdaten von *speisekarte.de* (Crawl: November 2025) mit Fokus auf strukturelle Kategorien wie **Küchenregion**, **Restaurantkonzept**, **Serviceklasse**, **Öffnungsklasse** und **Chain vs. Independent**.
+Dieses Repository enthält den Code zum Projekt **„Struktur der deutschen Gastronomiebranche“** (JLU Gießen, M.Sc. Data Analytics). Analysiert werden Plattformdaten von *speisekarte.de* (Crawl: November 2025) mit Fokus auf strukturelle Kategorien wie **Küchenregion**, **Restaurantkonzept**, **Serviceklasse**, **Öffnungsklasse** und **Kette vs. unabhängig**.
 
 ## Inhalte
 
