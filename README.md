@@ -20,12 +20,6 @@ Dieses Repository enthält den Code zum Projekt **„Struktur der deutschen Gast
 - `pipelines.py` – Cleaning/Export-Pipelines
 - `settings.py` – Scrapy Settings
 
-**Meta**
-- `README.md` – Projektbeschreibung
-- `LICENSE` – Lizenz
-
-
-
 ## Reihenfolge 
 Scraping → Sampling → Baseline → Learning Curves → Grid Search → Inferenz  
 
